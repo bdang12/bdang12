@@ -1,6 +1,6 @@
 ## Hi, I'm Binh Dang  👋
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com)](https://www.linkedin.com/in/binh-dang-quoc-266b072ba/)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:youremail@example.com)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:youremail@example.com)](mailto:billbinh04@gmail.com)
 
 🎓 I'm a Computer Science student passionate about systems, automata, and algorithms.
 
