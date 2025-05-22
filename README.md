@@ -16,6 +16,7 @@
 
 ![Binh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdang12&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdang12&layout=compact&theme=tokyonight)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdang12&repo=app_flutter_todolist&theme=tokyonight)](https://github.com/bdang12/app_flutter_todolist)
 
 🧠 **Fun Fact**  
 I love building automata in JFLAP and visualizing Turing Machines!
